@@ -1790,6 +1790,11 @@ section {
     color: #fff;
 }
 
+.btn-secondary{
+   background: #6c757d;
+   color: #fff
+}
+
 .btn-success {
     background: #5cb85c;
     color: #fff;
